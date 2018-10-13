@@ -1,0 +1,7 @@
+[DEFAULT]
+debian-branch = master-X.Y
+upstream-branch = upstream-X.Y
+pristine-tar = True
+
+[dch]
+meta = 1
